@@ -1,9 +1,6 @@
 """
    CISC-121 2023W
 
-   Name:   Kylie Hubbard
-   Student Number: 20294570
-   Email:  21kah10@queensu.ca
    Date: 2023-02-01
 
    I confirm that this assignment solution is my own work and conforms to
